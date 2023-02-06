@@ -1,15 +1,3 @@
-     //-----------------------------------------
-     // NAME		: Ali Jasim
-     // STUDENT NUMBER	: 7784485
-     // COURSE		: COMP 2150
-     // INSTRUCTOR	: Olivier
-     // ASSIGNMENT	: assignment #3
-     //      
-     // 
-     // REMARKS: Game of chess
-     //
-     //
-	 //-----------------------------------------
 
 import java.util.Scanner;
 public class test {
